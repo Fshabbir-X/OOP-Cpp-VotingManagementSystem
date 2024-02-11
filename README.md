@@ -1,0 +1,2 @@
+# OOP-Cpp-VotingManagementSystem
+ The voting management system comprises three core modules: National Assembly Candidate Management, Provincial Assembly Candidate Management, and Voter Details Management. These modules facilitate data entry, viewing, and searching functionalities through a user-friendly menu-driven interface. The system is designed with a strict limit of 10 candidates per assembly, employing modular programming principles and leveraging structures, arrays, file handling, loops, and functions for robust and efficient management of election-related data.
