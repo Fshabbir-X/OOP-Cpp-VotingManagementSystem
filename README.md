@@ -1,2 +1,90 @@
-# OOP-Cpp-VotingManagementSystem
- The voting management system comprises three core modules: National Assembly Candidate Management, Provincial Assembly Candidate Management, and Voter Details Management. These modules facilitate data entry, viewing, and searching functionalities through a user-friendly menu-driven interface. The system is designed with a strict limit of 10 candidates per assembly, employing modular programming principles and leveraging structures, arrays, file handling, loops, and functions for robust and efficient management of election-related data.
+# 🗳️ Voting Management System (C++ | OOP)
+
+A **console-based Voting Management System** developed in **C++** using **Object-Oriented Programming (OOP)** principles.  
+This project simulates a simple election process where voters can cast votes securely and results can be managed efficiently.
+
+---
+
+## 📌 Features
+
+- 🧑‍💼 Voter Registration  
+- 🗳️ Vote Casting System  
+- 📊 Real-time Vote Counting  
+- 🔐 Prevention of Multiple Voting  
+- 📋 Display Election Results  
+- 🧱 Modular and structured **OOP-based design**
+
+---
+
+## 🛠️ Technologies Used
+
+- **Language:** C++  
+- **Concepts Applied:**  
+  - Object-Oriented Programming (OOP)  
+  - Classes & Objects  
+  - Encapsulation  
+  - Control Structures  
+  - Basic Data Handling  
+
+---
+
+## 📂 Project Structure
+OOP-Cpp-VotingManagementSystem/
+│
+├── main.cpp
+├── voter.cpp
+├── voter.h
+├── candidate.cpp
+├── candidate.h
+├── README.md
+
+*(Structure may vary depending on implementation)*
+
+---
+
+## ▶️ How to Run the Project
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Fshabbir-X/OOP-Cpp-VotingManagementSystem.git
+    2️⃣ Navigate to the project directory
+    cd OOP-Cpp-VotingManagementSystem
+    3️⃣ Compile the program
+g++ main.cpp -o voting
+(Include other .cpp files if required)
+4️⃣ Run the executable
+./voting
+
+🎯 Learning Objectives
+
+This project was built to:
+
+Strengthen C++ OOP fundamentals
+
+Practice real-world problem modeling
+
+Improve logic building and code organization
+
+Build a foundation for secure systems & cybersecurity concepts
+
+🚀 Future Improvements
+
+🔑 Admin authentication system
+
+🗄️ File-based or database storage
+
+🖥️ GUI version (Qt / SFML)
+
+🔐 Basic encryption for vote security
+
+👤 Author
+
+Fahad Shabbir
+🎓 Computer Science Student
+🔐 Aspiring Cybersecurity Specialist
+
+GitHub: https://github.com/Fshabbir-X
+
+⭐ Support
+
+If you like this project, consider giving it a star ⭐ — it really helps!
