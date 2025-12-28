@@ -49,36 +49,21 @@ OOP-Cpp-VotingManagementSystem/
  3️⃣ Compile the program g++ main.cpp -o voting (Include other .cpp files if required)
  4️⃣ Run the executable ./voting
 
-🎯 Learning Objectives
+---
+### 🎯 Learning Objectives  
+This project was built to:  
+1.Strengthen C++ OOP fundamentals  
+2.Practice real-world problem modeling  
+3.Improve logic building and code organization  
+4.Build a foundation for secure systems & cybersecurity concepts  
 
-This project was built to:
+---
+### 🚀 Future Improvements  
+🔑 Admin authentication system  
+🗄️ File-based or database storage  
+🖥️ GUI version (Qt / SFML)  
+🔐 Basic encryption for vote security  
 
-Strengthen C++ OOP fundamentals
-
-Practice real-world problem modeling
-
-Improve logic building and code organization
-
-Build a foundation for secure systems & cybersecurity concepts
-
-🚀 Future Improvements
-
-🔑 Admin authentication system
-
-🗄️ File-based or database storage
-
-🖥️ GUI version (Qt / SFML)
-
-🔐 Basic encryption for vote security
-
-👤 Author
-
-Fahad Shabbir
-🎓 Computer Science Student
-🔐 Aspiring Cybersecurity Specialist
-
-GitHub: https://github.com/Fshabbir-X
-
-⭐ Support
-
+---
+⭐ Support  
 If you like this project, consider giving it a star ⭐ — it really helps!
