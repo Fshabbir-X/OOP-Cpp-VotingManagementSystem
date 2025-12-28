@@ -43,7 +43,7 @@ OOP-Cpp-VotingManagementSystem/
 ---
 
 ## ▶️ How to Run the Project
-
+```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/Fshabbir-X/OOP-Cpp-VotingManagementSystem.git
 
@@ -55,6 +55,7 @@ g++ main.cpp -o voting   # Include other .cpp files if required
 
 # 4️⃣ Run the executable
 ./voting
+``` 
 
 ---
 ### 🎯 Learning Objectives  
